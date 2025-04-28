@@ -65,24 +65,24 @@ python manage.py seed_data
 Add machine learning models (optional) Integrate Celery for scheduled background tasks Real-time dashboard refresh Branch crowd-sensing API integrations
 ✨ Author
 ### 7. Run the server
-    Visit http://localhost:8000/admin/ for the Django admin.
-    Visit http://localhost:8000/dashboard/ for the prediction dashboard.
+- Visit http://localhost:8000/admin/ for the Django admin.
+- Visit http://localhost:8000/dashboard/ for the prediction dashboard.
 
 ```bash
 python manage.py runserver
 ```
+---
 
 ## 📊 Admin Dashboard
-
-The dashboard displays:
+- The dashboard displays:
     - Workforce suggestions
     - Inventory distribution per branch
     - Inventory stock levels
     - Product transfer suggestions
-    
-Everything is calculated dynamically using backend logic!
+  
+- Everything is calculated dynamically using backend logic!
 
-
+---
 
 ## 🧹 Future Improvements
 
