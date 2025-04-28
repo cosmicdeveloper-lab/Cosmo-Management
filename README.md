@@ -73,24 +73,25 @@ python manage.py runserver
 
 ## 📊 Admin Dashboard
 
-    The dashboard displays:
-        Workforce suggestions
-        Inventory distribution per branch
-        Inventory stock levels
-        Product transfer suggestions
-    Everything is calculated dynamically using backend logic!
+The dashboard displays:
+    Workforce suggestions
+    Inventory distribution per branch
+    Inventory stock levels
+    Product transfer suggestions
+    
+Everything is calculated dynamically using backend logic!
 
 
 
 ## 🧹 Future Improvements
 
-    Add machine learning models (optional)
-    Integrate Celery for scheduled background tasks
-    Real-time dashboard refresh
-    Branch crowd-sensing API integrations
+Add machine learning models (optional)
+Integrate Celery for scheduled background tasks
+Real-time dashboard refresh
+Branch crowd-sensing API integrations
 
 
 ## ✨ Author
 
-    Project by: cosmic developer
-    Built with ❤️ and Python
+Project by: cosmic developer
+Built with ❤️ and Python
